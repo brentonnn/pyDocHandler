@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+FullName:Arial Black
+MenuName:Arial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Marketing\OI Templates Flyers & Signage\OI Template - Event\Document fonts\ariblk.ttf
+DataFormat:sfntData
+FileLength:119876
+FileModTime:1244666594
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Marketing\OI Templates Flyers & Signage\OI Template - Event\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329329720
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Marketing\OI Templates Flyers & Signage\OI Template - Event\Document fonts\arial.ttf
+DataFormat:sfntData
+FileLength:778552
+FileModTime:1305066845
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:Z:\Marketing\OI Templates Flyers & Signage\OI Template - Event\Document fonts\arialbd.ttf
+DataFormat:sfntData
+FileLength:749004
+FileModTime:1295224324
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SSSocialRegular
+FamilyName:SS Social
+StyleName:Regular
+FullName:SS Social Regular
+MenuName:SS Social
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:Z:\Marketing\OI Templates Flyers & Signage\OI Template - Event\Document fonts\$R5FWW9W.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25640
+FileModTime:1401830784
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
